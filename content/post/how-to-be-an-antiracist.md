@@ -1,7 +1,6 @@
 ---
 title: "How To Be An Antiracist"
 date: 2020-06-03T14:36:43-04:00
-draft: false
 category: book-club
 image: v1591209693/cultivatingcuriosity.world/how-to-be-an-antiracist-sm.jpg
 ---

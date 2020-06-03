@@ -15,4 +15,4 @@ pygmentsOptions = "linenos=table"
 
 [params]
   imageRoot = "https://res.cloudinary.com/deo07tbou/image/upload/"
-  mainSections = ["posts"]
+  mainSections = ["post"]

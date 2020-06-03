@@ -10,7 +10,7 @@ Photo by [Isaac Smith](https://unsplash.com/@isaacmsmith?utm_source=unsplash&utm
 
 We meet weekly to discuss whatever book we're reading.
 
-**Current book:** [How To Be An Antiracist](/posts/how-to-be-an-antiracist/)
+**Current book:** [How To Be An Antiracist](/post/how-to-be-an-antiracist/)
 
 ## Things we need to answer for future get-togethers
 
