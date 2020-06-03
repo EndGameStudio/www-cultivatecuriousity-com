@@ -5,7 +5,7 @@ category: book-club
 image: v1591209693/cultivatingcuriosity.world/how-to-be-an-antiracist-sm.jpg
 ---
 
-In light of recent events, we're switched books from Simon Sinek's Inifite Game to [Ibram X. Kendi's How To Be An Antiracist](https://www.ibramxkendi.com/how-to-be-an-antiracist-1).
+In light of recent events, we've switched books from Simon Sinek's Infinite Game to [Ibram X. Kendi's How To Be An Antiracist](https://www.ibramxkendi.com/how-to-be-an-antiracist-1).
 
 Through our own discussions we realized that we have a lot to learn.
 
