@@ -1,0 +1,33 @@
+name: Push to GitHub Pages on push to master
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  deploy:
+    runs-on: ubuntu-18.04
+    steps:
+      - name: Checkout master
+        uses: actions/checkout@v2.0.0
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: "0.63.1"
+
+      - name: Checkout submodules
+        run: |
+          git submodule sync && git submodule update --init
+
+      - name: Build
+        run: |
+          hugo --minify
+          echo www.cultivatecuriosity.world > ./public/CNAME
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
